@@ -8,8 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Imajize enables you to easily embed a 360° product spin into any Wordpress post or page by simply pasting an embed link.
-In addition, if you're using WooCommerce to sell your products, you can replace the default product image with an awesome product spin.
+Imajize enables you to easily embed a 360° product spin into any Wordpress post or WooCommerce product by simply pasting an embed link.
 
 == Description ==
 
