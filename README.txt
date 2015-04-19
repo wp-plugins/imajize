@@ -63,4 +63,5 @@ After you download the plugin, create a new Imajize account (You'll start with a
 == Upgrade Notice ==
 
 = 1.0 =
-* Just a readme update
+* Readme update
+* Icon and banner for retina screens
