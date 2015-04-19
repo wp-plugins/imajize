@@ -59,3 +59,8 @@ After you download the plugin, create a new Imajize account (You'll start with a
 
 = 1.0 =
 * First release
+
+== Upgrade Notice ==
+
+= 1.0 =
+* Just a readme update
