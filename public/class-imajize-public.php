@@ -150,7 +150,7 @@ class Imajize_Public {
               id="imajize_<?php echo $spin_view_url; ?>"
               frameborder="0"
               scrolling="no"
-              style="background-color: #fff; position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+              style="background-color: transparent; position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
               allowfullscreen>
       </iframe>
     </div>

@@ -4,7 +4,7 @@ Donate link: www.imajize.com
 Tags: 360 product photography, 360 product spin, 360 product viewer, woocommerce, 360 product views, 360 spin, 360 viewer, 360 degree photo, 360 image spin, 360 views, 3D view, 3D viewer, gallery, html5, image zoom, images, popup, product rotation, product zoom, spin 360, virtual tour, imajize
 Requires at least: 3.0.1
 Tested up to: 4.1.1
-Stable tag: trunk
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,9 +31,11 @@ In addition, if you're using WooCommerce to sell your products, you can replace 
 After you download the plugin, create a new Imajize account (You'll start with a Free plan with no credit card required, and no messy strings attached).
 
 - Download the Imajize plugin from Wordpress
-- Create an Imajize account and upload your 360º product photos to your Imajize account
+- [Create an Imajize account](http://www.imajize.com) and upload your 360º product photos to your Imajize account
 - Copy and paste the Imajize embed link into any page or post (just like a YouTube embed link)
 - WooCommerce users: go to the product page and add the 360 view link into the "Featured spin URL" field to replace the defautl featured product image
+
+Feel free to use the following embed link to test the plugin: http://embed.imajize.com/PQUDbEJO_N4
 
 = How can I create 360º images? =
 
@@ -43,7 +45,7 @@ After you download the plugin, create a new Imajize account (You'll start with a
 == Installation ==
 
 - Download the Imajize plugin from Wordpress
-- Create an Imajize account and upload your 360º product photos to your Imajize account
+- [Create an Imajize account](http://www.imajize.com) and upload your 360º product photos to your Imajize account
 - Copy and paste the Imajize embed link into any page or post (just like a YouTube embed link)
 - WooCommerce users: go to the product page and add the 360 view link into the "Featured spin URL" field to replace the defautl featured product image
 
@@ -60,8 +62,14 @@ After you download the plugin, create a new Imajize account (You'll start with a
 = 1.0 =
 * First release
 
+= 1.0.1 =
+* Background transparency added to remove a thin white line appearing on pages having a background color other than white
+
 == Upgrade Notice ==
 
 = 1.0 =
 * Readme update
 * Icon and banner
+
+= 1.0.1 =
+* Removes a thin white horizontal line that appeared on pages having a background color other than white

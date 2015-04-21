@@ -16,7 +16,7 @@
  * Plugin Name:       Imajize
  * Plugin URI:        www.imajize.com
  * Description:       Imajize is a maintenance-free publishing platform for spinning your products.
- * Version:           1.0
+ * Version:           1.0.1
  * Author:            Jasper Michalczik
  * Author URI:        www.imajize.com
  * License:           GPL-2.0+
